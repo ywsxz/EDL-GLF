@@ -1,0 +1,1 @@
+This repository is the official implementation of the paper: Local-Global Fusion via Evidential Learning for Hard Sample in Medical Image Classification.
