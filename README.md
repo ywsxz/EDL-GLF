@@ -1,1 +1,1 @@
-This repository is the official implementation of the paper: Evidential Global-Local Fusion Framework for Medical Image Classification.
+This repository is the official implementation of the paper: Evidential Global-Local Fusion Framework for Medical Image Classification. Once the paper is accepted, the code and configuration files will be made available here.
